@@ -5,6 +5,10 @@ header {
     height: 415px;
 }
 
+body {
+    text-align: justify;
+}
+
 header h1{
     background-color: rgba(248, 248, 248,0.75);
     margin-top: 150px;
